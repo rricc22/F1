@@ -1,0 +1,441 @@
+,TeamId,Grand Prix,Saison
+0,red_bull,Bahrain Grand Prix,2023
+1,red_bull,Bahrain Grand Prix,2023
+2,aston_martin,Bahrain Grand Prix,2023
+3,ferrari,Bahrain Grand Prix,2023
+4,mercedes,Bahrain Grand Prix,2023
+5,aston_martin,Bahrain Grand Prix,2023
+6,mercedes,Bahrain Grand Prix,2023
+7,alfa,Bahrain Grand Prix,2023
+8,alpine,Bahrain Grand Prix,2023
+9,williams,Bahrain Grand Prix,2023
+10,alphatauri,Bahrain Grand Prix,2023
+11,williams,Bahrain Grand Prix,2023
+12,haas,Bahrain Grand Prix,2023
+13,alphatauri,Bahrain Grand Prix,2023
+14,haas,Bahrain Grand Prix,2023
+15,alfa,Bahrain Grand Prix,2023
+16,mclaren,Bahrain Grand Prix,2023
+17,alpine,Bahrain Grand Prix,2023
+18,ferrari,Bahrain Grand Prix,2023
+19,mclaren,Bahrain Grand Prix,2023
+20,red_bull,Saudi Arabian Grand Prix,2023
+21,red_bull,Saudi Arabian Grand Prix,2023
+22,aston_martin,Saudi Arabian Grand Prix,2023
+23,mercedes,Saudi Arabian Grand Prix,2023
+24,mercedes,Saudi Arabian Grand Prix,2023
+25,ferrari,Saudi Arabian Grand Prix,2023
+26,ferrari,Saudi Arabian Grand Prix,2023
+27,alpine,Saudi Arabian Grand Prix,2023
+28,alpine,Saudi Arabian Grand Prix,2023
+29,haas,Saudi Arabian Grand Prix,2023
+30,alphatauri,Saudi Arabian Grand Prix,2023
+31,haas,Saudi Arabian Grand Prix,2023
+32,alfa,Saudi Arabian Grand Prix,2023
+33,alphatauri,Saudi Arabian Grand Prix,2023
+34,mclaren,Saudi Arabian Grand Prix,2023
+35,williams,Saudi Arabian Grand Prix,2023
+36,mclaren,Saudi Arabian Grand Prix,2023
+37,alfa,Saudi Arabian Grand Prix,2023
+38,williams,Saudi Arabian Grand Prix,2023
+39,aston_martin,Saudi Arabian Grand Prix,2023
+40,red_bull,Australian Grand Prix,2023
+41,mercedes,Australian Grand Prix,2023
+42,aston_martin,Australian Grand Prix,2023
+43,aston_martin,Australian Grand Prix,2023
+44,red_bull,Australian Grand Prix,2023
+45,mclaren,Australian Grand Prix,2023
+46,haas,Australian Grand Prix,2023
+47,mclaren,Australian Grand Prix,2023
+48,alfa,Australian Grand Prix,2023
+49,alphatauri,Australian Grand Prix,2023
+50,alfa,Australian Grand Prix,2023
+51,ferrari,Australian Grand Prix,2023
+52,alpine,Australian Grand Prix,2023
+53,alpine,Australian Grand Prix,2023
+54,alphatauri,Australian Grand Prix,2023
+55,williams,Australian Grand Prix,2023
+56,haas,Australian Grand Prix,2023
+57,mercedes,Australian Grand Prix,2023
+58,williams,Australian Grand Prix,2023
+59,ferrari,Australian Grand Prix,2023
+60,red_bull,Azerbaijan Grand Prix,2023
+61,red_bull,Azerbaijan Grand Prix,2023
+62,ferrari,Azerbaijan Grand Prix,2023
+63,aston_martin,Azerbaijan Grand Prix,2023
+64,ferrari,Azerbaijan Grand Prix,2023
+65,mercedes,Azerbaijan Grand Prix,2023
+66,aston_martin,Azerbaijan Grand Prix,2023
+67,mercedes,Azerbaijan Grand Prix,2023
+68,mclaren,Azerbaijan Grand Prix,2023
+69,alphatauri,Azerbaijan Grand Prix,2023
+70,mclaren,Azerbaijan Grand Prix,2023
+71,williams,Azerbaijan Grand Prix,2023
+72,haas,Azerbaijan Grand Prix,2023
+73,alpine,Azerbaijan Grand Prix,2023
+74,alpine,Azerbaijan Grand Prix,2023
+75,williams,Azerbaijan Grand Prix,2023
+76,haas,Azerbaijan Grand Prix,2023
+77,alfa,Azerbaijan Grand Prix,2023
+78,alfa,Azerbaijan Grand Prix,2023
+79,alphatauri,Azerbaijan Grand Prix,2023
+80,red_bull,Miami Grand Prix,2023
+81,red_bull,Miami Grand Prix,2023
+82,aston_martin,Miami Grand Prix,2023
+83,mercedes,Miami Grand Prix,2023
+84,ferrari,Miami Grand Prix,2023
+85,mercedes,Miami Grand Prix,2023
+86,ferrari,Miami Grand Prix,2023
+87,alpine,Miami Grand Prix,2023
+88,alpine,Miami Grand Prix,2023
+89,haas,Miami Grand Prix,2023
+90,alphatauri,Miami Grand Prix,2023
+91,aston_martin,Miami Grand Prix,2023
+92,alfa,Miami Grand Prix,2023
+93,williams,Miami Grand Prix,2023
+94,haas,Miami Grand Prix,2023
+95,alfa,Miami Grand Prix,2023
+96,mclaren,Miami Grand Prix,2023
+97,alphatauri,Miami Grand Prix,2023
+98,mclaren,Miami Grand Prix,2023
+99,williams,Miami Grand Prix,2023
+100,red_bull,Monaco Grand Prix,2023
+101,aston_martin,Monaco Grand Prix,2023
+102,alpine,Monaco Grand Prix,2023
+103,mercedes,Monaco Grand Prix,2023
+104,mercedes,Monaco Grand Prix,2023
+105,ferrari,Monaco Grand Prix,2023
+106,alpine,Monaco Grand Prix,2023
+107,ferrari,Monaco Grand Prix,2023
+108,mclaren,Monaco Grand Prix,2023
+109,mclaren,Monaco Grand Prix,2023
+110,alfa,Monaco Grand Prix,2023
+111,alphatauri,Monaco Grand Prix,2023
+112,alfa,Monaco Grand Prix,2023
+113,williams,Monaco Grand Prix,2023
+114,alphatauri,Monaco Grand Prix,2023
+115,red_bull,Monaco Grand Prix,2023
+116,haas,Monaco Grand Prix,2023
+117,williams,Monaco Grand Prix,2023
+118,haas,Monaco Grand Prix,2023
+119,aston_martin,Monaco Grand Prix,2023
+120,red_bull,Spanish Grand Prix,2023
+121,mercedes,Spanish Grand Prix,2023
+122,mercedes,Spanish Grand Prix,2023
+123,red_bull,Spanish Grand Prix,2023
+124,ferrari,Spanish Grand Prix,2023
+125,aston_martin,Spanish Grand Prix,2023
+126,aston_martin,Spanish Grand Prix,2023
+127,alpine,Spanish Grand Prix,2023
+128,alfa,Spanish Grand Prix,2023
+129,alpine,Spanish Grand Prix,2023
+130,ferrari,Spanish Grand Prix,2023
+131,alphatauri,Spanish Grand Prix,2023
+132,mclaren,Spanish Grand Prix,2023
+133,alphatauri,Spanish Grand Prix,2023
+134,haas,Spanish Grand Prix,2023
+135,williams,Spanish Grand Prix,2023
+136,mclaren,Spanish Grand Prix,2023
+137,haas,Spanish Grand Prix,2023
+138,alfa,Spanish Grand Prix,2023
+139,williams,Spanish Grand Prix,2023
+140,red_bull,Canadian Grand Prix,2023
+141,aston_martin,Canadian Grand Prix,2023
+142,mercedes,Canadian Grand Prix,2023
+143,ferrari,Canadian Grand Prix,2023
+144,ferrari,Canadian Grand Prix,2023
+145,red_bull,Canadian Grand Prix,2023
+146,williams,Canadian Grand Prix,2023
+147,alpine,Canadian Grand Prix,2023
+148,aston_martin,Canadian Grand Prix,2023
+149,alfa,Canadian Grand Prix,2023
+150,mclaren,Canadian Grand Prix,2023
+151,alpine,Canadian Grand Prix,2023
+152,mclaren,Canadian Grand Prix,2023
+153,alphatauri,Canadian Grand Prix,2023
+154,haas,Canadian Grand Prix,2023
+155,alfa,Canadian Grand Prix,2023
+156,haas,Canadian Grand Prix,2023
+157,alphatauri,Canadian Grand Prix,2023
+158,mercedes,Canadian Grand Prix,2023
+159,williams,Canadian Grand Prix,2023
+160,red_bull,Austrian Grand Prix,2023
+161,ferrari,Austrian Grand Prix,2023
+162,red_bull,Austrian Grand Prix,2023
+163,mclaren,Austrian Grand Prix,2023
+164,aston_martin,Austrian Grand Prix,2023
+165,ferrari,Austrian Grand Prix,2023
+166,mercedes,Austrian Grand Prix,2023
+167,mercedes,Austrian Grand Prix,2023
+168,aston_martin,Austrian Grand Prix,2023
+169,alpine,Austrian Grand Prix,2023
+170,williams,Austrian Grand Prix,2023
+171,alfa,Austrian Grand Prix,2023
+172,williams,Austrian Grand Prix,2023
+173,alpine,Austrian Grand Prix,2023
+174,alfa,Austrian Grand Prix,2023
+175,mclaren,Austrian Grand Prix,2023
+176,alphatauri,Austrian Grand Prix,2023
+177,haas,Austrian Grand Prix,2023
+178,alphatauri,Austrian Grand Prix,2023
+179,haas,Austrian Grand Prix,2023
+180,red_bull,British Grand Prix,2023
+181,mclaren,British Grand Prix,2023
+182,mercedes,British Grand Prix,2023
+183,mclaren,British Grand Prix,2023
+184,mercedes,British Grand Prix,2023
+185,red_bull,British Grand Prix,2023
+186,aston_martin,British Grand Prix,2023
+187,williams,British Grand Prix,2023
+188,ferrari,British Grand Prix,2023
+189,ferrari,British Grand Prix,2023
+190,williams,British Grand Prix,2023
+191,alfa,British Grand Prix,2023
+192,haas,British Grand Prix,2023
+193,aston_martin,British Grand Prix,2023
+194,alfa,British Grand Prix,2023
+195,alphatauri,British Grand Prix,2023
+196,alphatauri,British Grand Prix,2023
+197,alpine,British Grand Prix,2023
+198,haas,British Grand Prix,2023
+199,alpine,British Grand Prix,2023
+200,red_bull,Hungarian Grand Prix,2023
+201,mclaren,Hungarian Grand Prix,2023
+202,red_bull,Hungarian Grand Prix,2023
+203,mercedes,Hungarian Grand Prix,2023
+204,mclaren,Hungarian Grand Prix,2023
+205,mercedes,Hungarian Grand Prix,2023
+206,ferrari,Hungarian Grand Prix,2023
+207,ferrari,Hungarian Grand Prix,2023
+208,aston_martin,Hungarian Grand Prix,2023
+209,aston_martin,Hungarian Grand Prix,2023
+210,williams,Hungarian Grand Prix,2023
+211,alfa,Hungarian Grand Prix,2023
+212,alphatauri,Hungarian Grand Prix,2023
+213,haas,Hungarian Grand Prix,2023
+214,alphatauri,Hungarian Grand Prix,2023
+215,alfa,Hungarian Grand Prix,2023
+216,haas,Hungarian Grand Prix,2023
+217,williams,Hungarian Grand Prix,2023
+218,alpine,Hungarian Grand Prix,2023
+219,alpine,Hungarian Grand Prix,2023
+220,red_bull,Belgian Grand Prix,2023
+221,red_bull,Belgian Grand Prix,2023
+222,ferrari,Belgian Grand Prix,2023
+223,mercedes,Belgian Grand Prix,2023
+224,aston_martin,Belgian Grand Prix,2023
+225,mercedes,Belgian Grand Prix,2023
+226,mclaren,Belgian Grand Prix,2023
+227,alpine,Belgian Grand Prix,2023
+228,aston_martin,Belgian Grand Prix,2023
+229,alphatauri,Belgian Grand Prix,2023
+230,alpine,Belgian Grand Prix,2023
+231,alfa,Belgian Grand Prix,2023
+232,alfa,Belgian Grand Prix,2023
+233,williams,Belgian Grand Prix,2023
+234,haas,Belgian Grand Prix,2023
+235,alphatauri,Belgian Grand Prix,2023
+236,williams,Belgian Grand Prix,2023
+237,haas,Belgian Grand Prix,2023
+238,ferrari,Belgian Grand Prix,2023
+239,mclaren,Belgian Grand Prix,2023
+240,red_bull,Dutch Grand Prix,2023
+241,aston_martin,Dutch Grand Prix,2023
+242,alpine,Dutch Grand Prix,2023
+243,red_bull,Dutch Grand Prix,2023
+244,ferrari,Dutch Grand Prix,2023
+245,mercedes,Dutch Grand Prix,2023
+246,mclaren,Dutch Grand Prix,2023
+247,williams,Dutch Grand Prix,2023
+248,mclaren,Dutch Grand Prix,2023
+249,alpine,Dutch Grand Prix,2023
+250,aston_martin,Dutch Grand Prix,2023
+251,haas,Dutch Grand Prix,2023
+252,alphatauri,Dutch Grand Prix,2023
+253,alfa,Dutch Grand Prix,2023
+254,alphatauri,Dutch Grand Prix,2023
+255,haas,Dutch Grand Prix,2023
+256,mercedes,Dutch Grand Prix,2023
+257,alfa,Dutch Grand Prix,2023
+258,ferrari,Dutch Grand Prix,2023
+259,williams,Dutch Grand Prix,2023
+260,red_bull,Italian Grand Prix,2023
+261,red_bull,Italian Grand Prix,2023
+262,ferrari,Italian Grand Prix,2023
+263,ferrari,Italian Grand Prix,2023
+264,mercedes,Italian Grand Prix,2023
+265,mercedes,Italian Grand Prix,2023
+266,williams,Italian Grand Prix,2023
+267,mclaren,Italian Grand Prix,2023
+268,aston_martin,Italian Grand Prix,2023
+269,alfa,Italian Grand Prix,2023
+270,alphatauri,Italian Grand Prix,2023
+271,mclaren,Italian Grand Prix,2023
+272,williams,Italian Grand Prix,2023
+273,alfa,Italian Grand Prix,2023
+274,alpine,Italian Grand Prix,2023
+275,aston_martin,Italian Grand Prix,2023
+276,haas,Italian Grand Prix,2023
+277,haas,Italian Grand Prix,2023
+278,alpine,Italian Grand Prix,2023
+279,alphatauri,Italian Grand Prix,2023
+280,ferrari,Singapore Grand Prix,2023
+281,mclaren,Singapore Grand Prix,2023
+282,mercedes,Singapore Grand Prix,2023
+283,ferrari,Singapore Grand Prix,2023
+284,red_bull,Singapore Grand Prix,2023
+285,alpine,Singapore Grand Prix,2023
+286,mclaren,Singapore Grand Prix,2023
+287,red_bull,Singapore Grand Prix,2023
+288,alphatauri,Singapore Grand Prix,2023
+289,haas,Singapore Grand Prix,2023
+290,williams,Singapore Grand Prix,2023
+291,alfa,Singapore Grand Prix,2023
+292,haas,Singapore Grand Prix,2023
+293,williams,Singapore Grand Prix,2023
+294,aston_martin,Singapore Grand Prix,2023
+295,mercedes,Singapore Grand Prix,2023
+296,alfa,Singapore Grand Prix,2023
+297,alpine,Singapore Grand Prix,2023
+298,alphatauri,Singapore Grand Prix,2023
+299,aston_martin,Singapore Grand Prix,2023
+300,red_bull,Japanese Grand Prix,2023
+301,mclaren,Japanese Grand Prix,2023
+302,mclaren,Japanese Grand Prix,2023
+303,ferrari,Japanese Grand Prix,2023
+304,mercedes,Japanese Grand Prix,2023
+305,ferrari,Japanese Grand Prix,2023
+306,mercedes,Japanese Grand Prix,2023
+307,aston_martin,Japanese Grand Prix,2023
+308,alpine,Japanese Grand Prix,2023
+309,alpine,Japanese Grand Prix,2023
+310,alphatauri,Japanese Grand Prix,2023
+311,alphatauri,Japanese Grand Prix,2023
+312,alfa,Japanese Grand Prix,2023
+313,haas,Japanese Grand Prix,2023
+314,haas,Japanese Grand Prix,2023
+315,williams,Japanese Grand Prix,2023
+316,williams,Japanese Grand Prix,2023
+317,aston_martin,Japanese Grand Prix,2023
+318,red_bull,Japanese Grand Prix,2023
+319,alfa,Japanese Grand Prix,2023
+320,red_bull,Qatar Grand Prix,2023
+321,mclaren,Qatar Grand Prix,2023
+322,mclaren,Qatar Grand Prix,2023
+323,mercedes,Qatar Grand Prix,2023
+324,ferrari,Qatar Grand Prix,2023
+325,aston_martin,Qatar Grand Prix,2023
+326,alpine,Qatar Grand Prix,2023
+327,alfa,Qatar Grand Prix,2023
+328,alfa,Qatar Grand Prix,2023
+329,red_bull,Qatar Grand Prix,2023
+330,aston_martin,Qatar Grand Prix,2023
+331,alpine,Qatar Grand Prix,2023
+332,williams,Qatar Grand Prix,2023
+333,haas,Qatar Grand Prix,2023
+334,alphatauri,Qatar Grand Prix,2023
+335,haas,Qatar Grand Prix,2023
+336,alphatauri,Qatar Grand Prix,2023
+337,williams,Qatar Grand Prix,2023
+338,mercedes,Qatar Grand Prix,2023
+339,ferrari,Qatar Grand Prix,2023
+340,red_bull,United States Grand Prix,2023
+341,mclaren,United States Grand Prix,2023
+342,ferrari,United States Grand Prix,2023
+343,red_bull,United States Grand Prix,2023
+344,mercedes,United States Grand Prix,2023
+345,alpine,United States Grand Prix,2023
+346,aston_martin,United States Grand Prix,2023
+347,alphatauri,United States Grand Prix,2023
+348,williams,United States Grand Prix,2023
+349,williams,United States Grand Prix,2023
+350,haas,United States Grand Prix,2023
+351,alfa,United States Grand Prix,2023
+352,alfa,United States Grand Prix,2023
+353,haas,United States Grand Prix,2023
+354,alphatauri,United States Grand Prix,2023
+355,aston_martin,United States Grand Prix,2023
+356,mclaren,United States Grand Prix,2023
+357,alpine,United States Grand Prix,2023
+358,mercedes,United States Grand Prix,2023
+359,ferrari,United States Grand Prix,2023
+360,red_bull,Mexico City Grand Prix,2023
+361,mercedes,Mexico City Grand Prix,2023
+362,ferrari,Mexico City Grand Prix,2023
+363,ferrari,Mexico City Grand Prix,2023
+364,mclaren,Mexico City Grand Prix,2023
+365,mercedes,Mexico City Grand Prix,2023
+366,alphatauri,Mexico City Grand Prix,2023
+367,mclaren,Mexico City Grand Prix,2023
+368,williams,Mexico City Grand Prix,2023
+369,alpine,Mexico City Grand Prix,2023
+370,alpine,Mexico City Grand Prix,2023
+371,alphatauri,Mexico City Grand Prix,2023
+372,haas,Mexico City Grand Prix,2023
+373,alfa,Mexico City Grand Prix,2023
+374,alfa,Mexico City Grand Prix,2023
+375,williams,Mexico City Grand Prix,2023
+376,aston_martin,Mexico City Grand Prix,2023
+377,aston_martin,Mexico City Grand Prix,2023
+378,haas,Mexico City Grand Prix,2023
+379,red_bull,Mexico City Grand Prix,2023
+380,red_bull,São Paulo Grand Prix,2023
+381,mclaren,São Paulo Grand Prix,2023
+382,aston_martin,São Paulo Grand Prix,2023
+383,red_bull,São Paulo Grand Prix,2023
+384,aston_martin,São Paulo Grand Prix,2023
+385,ferrari,São Paulo Grand Prix,2023
+386,alpine,São Paulo Grand Prix,2023
+387,mercedes,São Paulo Grand Prix,2023
+388,alphatauri,São Paulo Grand Prix,2023
+389,alpine,São Paulo Grand Prix,2023
+390,williams,São Paulo Grand Prix,2023
+391,haas,São Paulo Grand Prix,2023
+392,alphatauri,São Paulo Grand Prix,2023
+393,mclaren,São Paulo Grand Prix,2023
+394,mercedes,São Paulo Grand Prix,2023
+395,alfa,São Paulo Grand Prix,2023
+396,alfa,São Paulo Grand Prix,2023
+397,haas,São Paulo Grand Prix,2023
+398,williams,São Paulo Grand Prix,2023
+399,ferrari,São Paulo Grand Prix,2023
+400,red_bull,Las Vegas Grand Prix,2023
+401,ferrari,Las Vegas Grand Prix,2023
+402,red_bull,Las Vegas Grand Prix,2023
+403,alpine,Las Vegas Grand Prix,2023
+404,aston_martin,Las Vegas Grand Prix,2023
+405,ferrari,Las Vegas Grand Prix,2023
+406,mercedes,Las Vegas Grand Prix,2023
+407,mercedes,Las Vegas Grand Prix,2023
+408,aston_martin,Las Vegas Grand Prix,2023
+409,mclaren,Las Vegas Grand Prix,2023
+410,alpine,Las Vegas Grand Prix,2023
+411,williams,Las Vegas Grand Prix,2023
+412,haas,Las Vegas Grand Prix,2023
+413,alphatauri,Las Vegas Grand Prix,2023
+414,alfa,Las Vegas Grand Prix,2023
+415,williams,Las Vegas Grand Prix,2023
+416,alfa,Las Vegas Grand Prix,2023
+417,alphatauri,Las Vegas Grand Prix,2023
+418,haas,Las Vegas Grand Prix,2023
+419,mclaren,Las Vegas Grand Prix,2023
+420,red_bull,Abu Dhabi Grand Prix,2023
+421,ferrari,Abu Dhabi Grand Prix,2023
+422,mercedes,Abu Dhabi Grand Prix,2023
+423,red_bull,Abu Dhabi Grand Prix,2023
+424,mclaren,Abu Dhabi Grand Prix,2023
+425,mclaren,Abu Dhabi Grand Prix,2023
+426,aston_martin,Abu Dhabi Grand Prix,2023
+427,alphatauri,Abu Dhabi Grand Prix,2023
+428,mercedes,Abu Dhabi Grand Prix,2023
+429,aston_martin,Abu Dhabi Grand Prix,2023
+430,alphatauri,Abu Dhabi Grand Prix,2023
+431,alpine,Abu Dhabi Grand Prix,2023
+432,alpine,Abu Dhabi Grand Prix,2023
+433,williams,Abu Dhabi Grand Prix,2023
+434,haas,Abu Dhabi Grand Prix,2023
+435,williams,Abu Dhabi Grand Prix,2023
+436,alfa,Abu Dhabi Grand Prix,2023
+437,ferrari,Abu Dhabi Grand Prix,2023
+438,alfa,Abu Dhabi Grand Prix,2023
+439,haas,Abu Dhabi Grand Prix,2023
